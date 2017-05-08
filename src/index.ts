@@ -6,4 +6,4 @@ let code = esprima.parse(`
     }
     var b = () => 2;
     `);
-console.log(code);
+console.log(code); 
